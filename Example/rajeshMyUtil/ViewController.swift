@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import rajeshMyUtil
 
 class ViewController: UIViewController {
 
+    let objMyUtil = MyUtil()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        objMyUtil.printHelloWord()
     }
 
     override func didReceiveMemoryWarning() {
