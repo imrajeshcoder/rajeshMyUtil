@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'Classes/**/*'
-  
+  s.swift_version = '4.0'
   # s.resource_bundles = {
   #   'rajeshMyUtil' => ['rajeshMyUtil/Assets/*.png']
   # }
