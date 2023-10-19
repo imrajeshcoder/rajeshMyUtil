@@ -1,0 +1,16 @@
+PODS:
+  - rajeshMyUtil (0.1.0)
+
+DEPENDENCIES:
+  - rajeshMyUtil (from `../`)
+
+EXTERNAL SOURCES:
+  rajeshMyUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  rajeshMyUtil: 936d2d4cbfa86d711a21763ed728899c48642605
+
+PODFILE CHECKSUM: e4d0178d83e2a8c16b5e1c4484ffc2b251b58f12
+
+COCOAPODS: 1.11.3
